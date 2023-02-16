@@ -1,0 +1,14 @@
+D:\programming\Leet\Leetcs2\Leetcs2\bin\Debug\netcoreapp3.1\Leetcs2.exe
+D:\programming\Leet\Leetcs2\Leetcs2\bin\Debug\netcoreapp3.1\Leetcs2.deps.json
+D:\programming\Leet\Leetcs2\Leetcs2\bin\Debug\netcoreapp3.1\Leetcs2.runtimeconfig.json
+D:\programming\Leet\Leetcs2\Leetcs2\bin\Debug\netcoreapp3.1\Leetcs2.runtimeconfig.dev.json
+D:\programming\Leet\Leetcs2\Leetcs2\bin\Debug\netcoreapp3.1\Leetcs2.dll
+D:\programming\Leet\Leetcs2\Leetcs2\bin\Debug\netcoreapp3.1\Leetcs2.pdb
+D:\programming\Leet\Leetcs2\Leetcs2\obj\Debug\netcoreapp3.1\Leetcs2.csproj.AssemblyReference.cache
+D:\programming\Leet\Leetcs2\Leetcs2\obj\Debug\netcoreapp3.1\Leetcs2.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\Leet\Leetcs2\Leetcs2\obj\Debug\netcoreapp3.1\Leetcs2.AssemblyInfoInputs.cache
+D:\programming\Leet\Leetcs2\Leetcs2\obj\Debug\netcoreapp3.1\Leetcs2.AssemblyInfo.cs
+D:\programming\Leet\Leetcs2\Leetcs2\obj\Debug\netcoreapp3.1\Leetcs2.csproj.CoreCompileInputs.cache
+D:\programming\Leet\Leetcs2\Leetcs2\obj\Debug\netcoreapp3.1\Leetcs2.dll
+D:\programming\Leet\Leetcs2\Leetcs2\obj\Debug\netcoreapp3.1\Leetcs2.pdb
+D:\programming\Leet\Leetcs2\Leetcs2\obj\Debug\netcoreapp3.1\Leetcs2.genruntimeconfig.cache

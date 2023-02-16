@@ -1,0 +1,15 @@
+D:\programming\Leet\LeetCs\LeetCs\bin\Debug\net6.0\LeetCs.exe
+D:\programming\Leet\LeetCs\LeetCs\bin\Debug\net6.0\LeetCs.deps.json
+D:\programming\Leet\LeetCs\LeetCs\bin\Debug\net6.0\LeetCs.runtimeconfig.json
+D:\programming\Leet\LeetCs\LeetCs\bin\Debug\net6.0\LeetCs.dll
+D:\programming\Leet\LeetCs\LeetCs\bin\Debug\net6.0\LeetCs.pdb
+D:\programming\Leet\LeetCs\LeetCs\obj\Debug\net6.0\LeetCs.csproj.AssemblyReference.cache
+D:\programming\Leet\LeetCs\LeetCs\obj\Debug\net6.0\LeetCs.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\Leet\LeetCs\LeetCs\obj\Debug\net6.0\LeetCs.AssemblyInfoInputs.cache
+D:\programming\Leet\LeetCs\LeetCs\obj\Debug\net6.0\LeetCs.AssemblyInfo.cs
+D:\programming\Leet\LeetCs\LeetCs\obj\Debug\net6.0\LeetCs.csproj.CoreCompileInputs.cache
+D:\programming\Leet\LeetCs\LeetCs\obj\Debug\net6.0\LeetCs.dll
+D:\programming\Leet\LeetCs\LeetCs\obj\Debug\net6.0\refint\LeetCs.dll
+D:\programming\Leet\LeetCs\LeetCs\obj\Debug\net6.0\LeetCs.pdb
+D:\programming\Leet\LeetCs\LeetCs\obj\Debug\net6.0\LeetCs.genruntimeconfig.cache
+D:\programming\Leet\LeetCs\LeetCs\obj\Debug\net6.0\ref\LeetCs.dll
